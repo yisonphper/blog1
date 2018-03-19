@@ -1,0 +1,1 @@
+a:2:{i:0;s:2:"12";i:1;O:24:"yii\caching\DbDependency":5:{s:2:"db";s:2:"db";s:3:"sql";s:26:"select count(id) from post";s:6:"params";a:0:{}s:4:"data";a:1:{s:9:"count(id)";s:2:"12";}s:8:"reusable";b:0;}}

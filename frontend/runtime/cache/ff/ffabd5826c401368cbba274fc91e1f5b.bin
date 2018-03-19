@@ -1,0 +1,784 @@
+a:2:{i:0;a:9:{s:12:"cacheVersion";i:1;s:9:"cacheData";N;s:7:"content";s:34647:"<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-param" content="_csrf-frontend">
+    <meta name="csrf-token" content="os_zkc4LA_P4zAxYrLuOe3suwVPzTuZmI57kZ-3tBdRQXRw_H9zoCWmFF29O_OBpCwIib7cnhqxfdq2YwvUJgA==">
+    <title>首页</title>
+    <link href="/assets/164fbb69/css/bootstrap.css" rel="stylesheet">
+<link href="/css/site.css" rel="stylesheet"></head>
+<body>
+
+<div class="wrap">
+    <nav id="w0" class="navbar-inverse navbar-fixed-top navbar" role="navigation"><div class="container"><div class="navbar-header"><button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#w0-collapse"><span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span></button><a class="navbar-brand" href="/">博客one</a></div><div id="w0-collapse" class="collapse navbar-collapse"><ul id="w1" class="navbar-nav navbar-right nav"><li class="active"><a href="/posts.html">首页</a></li>
+<li><a href="/site/about.html">关于我们</a></li>
+<li><a href="/site/contact.html">联系我们</a></li>
+<li><form action="/site/logout.html" method="post">
+<input type="hidden" name="_csrf-frontend" value="os_zkc4LA_P4zAxYrLuOe3suwVPzTuZmI57kZ-3tBdRQXRw_H9zoCWmFF29O_OBpCwIib7cnhqxfdq2YwvUJgA=="><button type="submit" class="btn btn-link logout">注销 (yx)</button></form></li></ul></div></div></nav>
+    <div class="container">
+                        
+
+<div class="container">
+    
+    <div class="row">
+
+        <div class="col-md-9">
+
+        <ol class="breadcrumb">
+        <li><a href="/">首页</a></li>
+        <li>文章列表</li>
+        </ol>
+
+        
+        <div id="postList" class="list-view"><div data-key="41">
+<div class="post">
+
+	<div class="title">
+		<h2><a href="/post/41.html?title=RESTful+Web%E6%9C%8D%E5%8A%A1">RESTful Web服务</a></h2>
+
+		<div class="author">
+		<span class="glyphicon glyphicon-time" aria-hidden="ture"></span><em>2015-09-23 18:07:49&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>
+		<span class="glyphicon glyphicon-user" aria-hidden="ture"></span><em>魏曦</em>
+		</div>
+	</div>
+
+	<br>
+	<div class="content">
+	
+Yii 提供了一整套用来简化实现 RESTful 风格的 Web Service 服务的 API。
+特别是，Yii 支持以下关于 RESTful 风格的 API：
+支持 Active Record 类的通用API的快速原型
+涉及的响应格式（在默认情况下支持 JSON 和 XML)
+支持可选输出字段的定制对象序列化
+适当的格式的数据采集和验证错误
+支持 HATEOAS
+有适当HTTP动词检查的高效的路由
+内置OPTIONS和HEAD动......	</div>
+
+	<br>
+	<div class="nav">
+		<span class="glyphicon glyphicon-tag" aria-hidden="true"></span>
+		<a href="/posts.html?PostSearch%5Btags%5D=Yii">Yii</a>, <a href="/posts.html?PostSearch%5Btags%5D=RESTful+Web%E6%9C%8D%E5%8A%A1">RESTful Web服务</a>
+		<br>
+		<a href="/post/41.html?title=RESTful+Web%E6%9C%8D%E5%8A%A1#comments">评论(3)</a> | 最后修改于  2015-09-23 18:07:49	</div>
+
+</div></div> </div>        </div>
+
+
+        <div  class="col-md-3">
+            <div class="searchbox">
+                <ul class="list-group">
+                    <li class="list-group-item">
+                    <span class="glyphicon glyphicon-search" aria-hidden="true"></span> 查找文章
+                    
+                                        
+
+                    </li>
+                    <li class="list-group-item">
+                    <form class="form-inline" action="/posts.html" id="w0" method="get" >
+                        <div class="form-group">
+                        <input type="text" class="form-control" name="PostSearch[title]" id="w0input" placeholder="按标题"> 
+                        </div>               
+                        <button type="submit" class="btn btn-default" >搜索</button>                       
+                    </form>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="tagcloudbox">
+                <ul class="list-group">
+                    <li class="list-group-item">
+                    <span class="glyphicon glyphicon-tags" aria-hidden="true"></span> 标签云
+                    </li>
+                    <li class="list-group-item">
+                    <a href="/posts.html?PostSearch%5Btags%5D=ActiveRecord"> <h2 style="display:inline-block;"><span class="label label-success">ActiveRecord</span></h2></a><a href="/posts.html?PostSearch%5Btags%5D=Composer"> <h4 style="display:inline-block;"><span class="label label-warning">Composer</span></h4></a><a href="/posts.html?PostSearch%5Btags%5D=DAO"> <h4 style="display:inline-block;"><span class="label label-warning">DAO</span></h4></a><a href="/posts.html?PostSearch%5Btags%5D=DetailView"> <h3 style="display:inline-block;"><span class="label label-primary">DetailView</span></h3></a><a href="/posts.html?PostSearch%5Btags%5D=Gii"> <h2 style="display:inline-block;"><span class="label label-success">Gii</span></h2></a><a href="/posts.html?PostSearch%5Btags%5D=GridView"> <h3 style="display:inline-block;"><span class="label label-primary">GridView</span></h3></a><a href="/posts.html?PostSearch%5Btags%5D=ListView"> <h3 style="display:inline-block;"><span class="label label-primary">ListView</span></h3></a><a href="/posts.html?PostSearch%5Btags%5D=RESTful+Web%E6%9C%8D%E5%8A%A1"> <h3 style="display:inline-block;"><span class="label label-primary">RESTful Web服务</span></h3></a><a href="/posts.html?PostSearch%5Btags%5D=Yii"> <h2 style="display:inline-block;"><span class="label label-success">Yii</span></h2></a><a href="/posts.html?PostSearch%5Btags%5D=Yii2"> <h2 style="display:inline-block;"><span class="label label-success">Yii2</span></h2></a><a href="/posts.html?PostSearch%5Btags%5D=widget"> <h5 style="display:inline-block;"><span class="label label-info">widget</span></h5></a><a href="/posts.html?PostSearch%5Btags%5D=%E5%95%8A%E5%95%8A%E5%95%8A"> <h6 style="display:inline-block;"><span class="label label-danger">啊啊啊</span></h6></a><a href="/posts.html?PostSearch%5Btags%5D=%E5%AE%89%E8%A3%85"> <h4 style="display:inline-block;"><span class="label label-warning">安装</span></h4></a><a href="/posts.html?PostSearch%5Btags%5D=%E5%B0%8F%E8%AF%B4"> <h6 style="display:inline-block;"><span class="label label-danger">小说</span></h6></a><a href="/posts.html?PostSearch%5Btags%5D=%E5%B0%8F%E9%83%A8%E4%BB%B6"> <h5 style="display:inline-block;"><span class="label label-info">小部件</span></h5></a><a href="/posts.html?PostSearch%5Btags%5D=%E6%95%99%E7%A8%8B"> <h5 style="display:inline-block;"><span class="label label-info">教程</span></h5></a><a href="/posts.html?PostSearch%5Btags%5D=%E6%9F%A5%E8%AF%A2%E6%9E%84%E5%BB%BA%E5%99%A8"> <h4 style="display:inline-block;"><span class="label label-warning">查询构建器</span></h4></a><a href="/posts.html?PostSearch%5Btags%5D=%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B"> <h5 style="display:inline-block;"><span class="label label-info">视频教程</span></h5></a>                    </li>
+                </ul>
+            </div>
+
+            <div class="commentbox">
+                <ul class="list-group">
+                    <li class="list-group-item">
+                    <span class="glyphicon glyphicon-comment" aria-hidden="true"></span> 最新回复
+                    </li>
+                    <li class="list-group-item">
+                    <div class="post"><div class="title"><p style="color:#777777;font-style:italic;">评论提醒测试</p><p class="text"> <span class="glyphicon glyphicon-user" aria-hidden="ture">
+							</span> guest</p><p style="font-size:8pt;color:bule">
+							《<a href="/post/35.html?title=Active+Record+%E8%AF%A6%E8%A7%A3%EF%BC%88%E4%B8%8B%EF%BC%89">Active Record 详解（下）</a>》</p><hr></div></div><div class="post"><div class="title"><p style="color:#777777;font-style:italic;">这还什么鬼</p><p class="text"> <span class="glyphicon glyphicon-user" aria-hidden="ture">
+							</span> weixi_1</p><p style="font-size:8pt;color:bule">
+							《<a href="/post/33.html?title=Yii2%E5%AE%89%E8%A3%85+">Yii2安装 </a>》</p><hr></div></div><div class="post"><div class="title"><p style="color:#777777;font-style:italic;">这不是我的文本</p><p class="text"> <span class="glyphicon glyphicon-user" aria-hidden="ture">
+							</span> weixi_1</p><p style="font-size:8pt;color:bule">
+							《<a href="/post/41.html?title=RESTful+Web%E6%9C%8D%E5%8A%A1">RESTful Web服务</a>》</p><hr></div></div><div class="post"><div class="title"><p style="color:#777777;font-style:italic;">适合用常规格式显示一个模型（例如在一个表格的一行中显示模型的每个属性）。</p><p class="text"> <span class="glyphicon glyphicon-user" aria-hidden="ture">
+							</span> weixi_1</p><p style="font-size:8pt;color:bule">
+							《<a href="/post/36.html?title=DetailView">DetailView</a>》</p><hr></div></div><div class="post"><div class="title"><p style="color:#777777;font-style:italic;">你应该在 响应格式 部分中过滤掉这些字段。</p><p class="text"> <span class="glyphicon glyphicon-user" aria-hidden="ture">
+							</span> weixi_1</p><p style="font-size:8pt;color:bule">
+							《<a href="/post/41.html?title=RESTful+Web%E6%9C%8D%E5%8A%A1">RESTful Web服务</a>》</p><hr></div></div><div class="post"><div class="title"><p style="color:#777777;font-style:italic;">yii\db\Query::one() 方法只返回查询结果当中的第一条数据， 条件语句中不会加上 LIMIT 1 条</p><p class="text"> <span class="glyphicon glyphicon-user" aria-hidden="ture">
+							</span> weixi_1</p><p style="font-size:8pt;color:bule">
+							《<a href="/post/39.html?title=%E6%9F%A5%E8%AF%A2%E6%9E%84%E5%BB%BA%E5%99%A8">查询构建器</a>》</p><hr></div></div><div class="post"><div class="title"><p style="color:#777777;font-style:italic;">当你在调用 yii\db\Query::all() 方法时，它将返回一个以连续的整型数值为索引的数组。 而有时候你可能希望使用一个特定的字段或者表达式的值来作为索引结果集数组。那么你可以在调用 yii\db\Query::all() 之前使用 yii\db\Query::indexBy() 方法来达到这个目的。</p><p class="text"> <span class="glyphicon glyphicon-user" aria-hidden="ture">
+							</span> weixi_1</p><p style="font-size:8pt;color:bule">
+							《<a href="/post/39.html?title=%E6%9F%A5%E8%AF%A2%E6%9E%84%E5%BB%BA%E5%99%A8">查询构建器</a>》</p><hr></div></div><div class="post"><div class="title"><p style="color:#777777;font-style:italic;">传说中的沙发。</p><p class="text"> <span class="glyphicon glyphicon-user" aria-hidden="ture">
+							</span> weixi_1</p><p style="font-size:8pt;color:bule">
+							《<a href="/post/34.html?title=ActiveRecord+%E8%AF%A6%E8%A7%A3%EF%BC%88%E4%B8%8A%EF%BC%89">ActiveRecord 详解（上）</a>》</p><hr></div></div><div class="post"><div class="title"><p style="color:#777777;font-style:italic;">yii\db\Query::one() 方法只返回查询结果当中的第一条数据， 条件语句中不会加上 LIMIT 1 条件。如果你清楚的知道查询将会只返回一行或几行数据 （例如， 如果你是通过某些主键来查询的），这很好也提倡这样做。但是，如果查询结果 有机会返回大量的数据时，那么你应该显示调用 limit(1) 方法，以改善性能。 例如， (new \yii\db\Query())->from('user')->limit(1)->one()。</p><p class="text"> <span class="glyphicon glyphicon-user" aria-hidden="ture">
+							</span> weixi_1</p><p style="font-size:8pt;color:bule">
+							《<a href="/post/39.html?title=%E6%9F%A5%E8%AF%A2%E6%9E%84%E5%BB%BA%E5%99%A8">查询构建器</a>》</p><hr></div></div><div class="post"><div class="title"><p style="color:#777777;font-style:italic;">假设你想通过 RESTful 风格的 API 来展示用户数据。用户数据被存储在用户DB表， 你已经创建了 yii\db\ActiveRecord 类 app\models\User 来访问该用户数据.</p><p class="text"> <span class="glyphicon glyphicon-user" aria-hidden="ture">
+							</span> weixi_1</p><p style="font-size:8pt;color:bule">
+							《<a href="/post/41.html?title=RESTful+Web%E6%9C%8D%E5%8A%A1">RESTful Web服务</a>》</p><hr></div></div>                    </li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</div>    </div>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <p class="pull-left">&copy;博客one 2018</p>
+
+        <p class="pull-right">技术支持 <a href="http://www.yiiframework.com/" rel="external">Yii 框架</a></p>
+    </div>
+</footer>
+
+<![CDATA[YII-DYNAMIC-0]]><style>
+#yii-debug-toolbar-logo {
+    position: fixed;
+    right: 31px;
+    bottom: 4px;
+}
+
+.yii-debug-toolbar {
+    font: 11px Verdana, Arial, sans-serif;
+    text-align: left;
+    width: 96px;
+    transition: width .3s ease;
+    z-index: 1000000;
+}
+
+.yii-debug-toolbar_active {
+    width: 100%;
+}
+
+.yii-debug-toolbar_position_top {
+    margin: 0 0 20px 0;
+    width: 100%;
+}
+
+.yii-debug-toolbar_position_bottom {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    margin: 0;
+}
+
+.yii-debug-toolbar__bar {
+    position: relative;
+    padding: 0;
+    font: 11px Verdana, Arial, sans-serif;
+    text-align: left;
+    overflow: hidden;
+    box-sizing: content-box;
+
+    background: rgb(255, 255, 255);
+    background: -moz-linear-gradient(top, rgb(255, 255, 255) 0%, rgb(247, 247, 247) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgb(255, 255, 255) 0%, rgb(247, 247, 247) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(247, 247, 247) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f7f7f7', GradientType=0); /* IE6-9 */
+
+    border: 1px solid rgba(0, 0, 0, 0.11);
+
+    /* ensure debug toolbar text is displayed ltr even on rtl pages */
+    direction: ltr;
+}
+
+.yii-debug-toolbar.yii-debug-toolbar_active:not(.yii-debug-toolbar_animating) .yii-debug-toolbar__bar {
+    overflow: visible;
+}
+.yii-debug-toolbar:not(.yii-debug-toolbar_active) .yii-debug-toolbar__bar {
+    height:40px;
+}
+
+.yii-debug-toolbar__bar:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.yii-debug-toolbar__view {
+    height: 0;
+    overflow: hidden;
+    background: white;
+}
+
+.yii-debug-toolbar__view iframe {
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+    height: 100%;
+    width: 100%;
+    border: 0;
+}
+
+.yii-debug-toolbar_iframe_active .yii-debug-toolbar__view {
+    height: 100%;
+}
+
+.yii-debug-toolbar_iframe_animating .yii-debug-toolbar__view {
+    transition: height .3s ease;
+}
+
+.yii-debug-toolbar__block {
+    float: left;
+    margin: 0;
+    border-right: 1px solid rgba(0, 0, 0, 0.11);
+    padding: 4px 8px;
+    line-height: 32px;
+    white-space: nowrap;
+}
+
+.yii-debug-toolbar__block_active,
+.yii-debug-toolbar__ajax:hover {
+    background: rgb(247, 247, 247); /* Old browsers */
+    background: -moz-linear-gradient(top, rgb(247, 247, 247) 0%, rgb(224, 224, 224) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgb(247, 247, 247) 0%, rgb(224, 224, 224) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgb(247, 247, 247) 0%, rgb(224, 224, 224) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f7f7f7', endColorstr='#e0e0e0', GradientType=0); /* IE6-9 */
+}
+
+.yii-debug-toolbar__block a {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+}
+
+.yii-debug-toolbar__block img {
+    vertical-align: middle;
+}
+
+.yii-debug-toolbar__label {
+    display: inline-block;
+    padding: 2px 4px;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 14px;
+    white-space: nowrap;
+    vertical-align: baseline;
+    color: #ffffff;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    background-color: #999999;
+    -webkit-border-radius: 3px;
+       -moz-border-radius: 3px;
+            border-radius: 3px;
+}
+
+.yii-debug-toolbar__label:empty {
+    display: none;
+}
+
+a.yii-debug-toolbar__label:hover,
+a.yii-debug-toolbar__label:focus {
+    color: #ffffff;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.yii-debug-toolbar__label_important,
+.yii-debug-toolbar__label_error {
+    background-color: #b94a48;
+}
+
+.yii-debug-toolbar__label_important[href] {
+    background-color: #953b39;
+}
+
+.yii-debug-toolbar__label_warning,
+.yii-debug-toolbar__badge_warning {
+    background-color: #f89406;
+}
+
+.yii-debug-toolbar__label_warning[href] {
+    background-color: #c67605;
+}
+
+.yii-debug-toolbar__label_success {
+    background-color: #468847;
+}
+
+.yii-debug-toolbar__label_success[href] {
+    background-color: #356635;
+}
+
+.yii-debug-toolbar__label_info {
+    background-color: #3a87ad;
+}
+
+.yii-debug-toolbar__label_info[href] {
+    background-color: #2d6987;
+}
+
+.yii-debug-toolbar__label_inverse,
+.yii-debug-toolbar__badge_inverse {
+    background-color: #333333;
+}
+
+.yii-debug-toolbar__label_inverse[href],
+.yii-debug-toolbar__badge_inverse[href] {
+    background-color: #1a1a1a;
+}
+
+.yii-debug-toolbar__title {
+    background: rgb(247, 247, 247); /* Old browsers */
+    background: -moz-linear-gradient(top, rgb(247, 247, 247) 0%, rgb(224, 224, 224) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, rgb(247, 247, 247) 0%, rgb(224, 224, 224) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, rgb(247, 247, 247) 0%, rgb(224, 224, 224) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f7f7f7', endColorstr='#e0e0e0', GradientType=0); /* IE6-9 */
+}
+
+.yii-debug-toolbar__block_last{ /* creates space for .yii-debug-toolbar__toggle, .yii-debug-toolbar__external */
+    width: 80px;
+    height: 40px;
+    float: left;
+}
+
+.yii-debug-toolbar__toggle,
+.yii-debug-toolbar__external {
+    cursor: pointer;
+    position: absolute;
+
+    width: 30px;
+    height: 30px;
+    font-size: 25px;
+    font-weight: 100;
+    line-height: 28px;
+    color: #ffffff;
+    text-align: center;
+
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+
+    transition: opacity .3s ease;
+}
+
+.yii-debug-toolbar__toggle:hover,
+.yii-debug-toolbar__toggle:focus,
+.yii-debug-toolbar__external:hover,
+.yii-debug-toolbar__external:focus {
+    color: #ffffff;
+    text-decoration: none;
+    opacity: 0.9;
+    filter: alpha(opacity=90);
+}
+
+.yii-debug-toolbar__toggle-icon,
+.yii-debug-toolbar__external-icon {
+    display: inline-block;
+
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.yii-debug-toolbar__toggle {
+    right: 10px;
+    bottom: 4px;
+}
+
+.yii-debug-toolbar__toggle-icon {
+    padding: 7px 0;
+    width: 10px;
+    height: 16px;
+    background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNSIgaGVpZ2h0PSIxNSIgdmlld0JveD0iMCAwIDUwIDUwIj48cGF0aCBmaWxsPSIjNDQ0IiBkPSJNMTUuNTYzIDQwLjgzNmEuOTk3Ljk5NyAwIDAgMCAxLjQxNCAwbDE1LTE1YTEgMSAwIDAgMCAwLTEuNDE0bC0xNS0xNWExIDEgMCAwIDAtMS40MTQgMS40MTRMMjkuODU2IDI1LjEzIDE1LjU2MyAzOS40MmExIDEgMCAwIDAgMCAxLjQxNHoiLz48L3N2Zz4=');
+    transition: -webkit-transform .3s ease-out;
+    transition: transform .3s ease-out;
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.yii-debug-toolbar_active .yii-debug-toolbar__toggle-icon {
+    -webkit-transform: rotate(0);
+    transform: rotate(0);
+}
+
+.yii-debug-toolbar_iframe_active .yii-debug-toolbar__toggle-icon {
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.yii-debug-toolbar__external {
+    display: none;
+    right: 50px;
+    bottom: 4px;
+}
+
+.yii-debug-toolbar_iframe_active .yii-debug-toolbar__external {
+    display: block;
+}
+
+.yii-debug-toolbar__external-icon {
+    padding: 8px 0;
+    width: 14px;
+    height: 14px;
+    background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNSIgaGVpZ2h0PSIxNSIgdmlld0JveD0iMCAwIDUwIDUwIj48cGF0aCBmaWxsPSIjNDQ0IiBkPSJNMzkuNjQyIDkuNzIyYTEuMDEgMS4wMSAwIDAgMC0uMzgyLS4wNzdIMjguMTAzYTEgMSAwIDAgMCAwIDJoOC43NDNMMjEuNyAyNi43OWExIDEgMCAwIDAgMS40MTQgMS40MTVMMzguMjYgMTMuMDZ2OC43NDNhMSAxIDAgMCAwIDIgMFYxMC42NDZhMS4wMDUgMS4wMDUgMCAwIDAtLjYxOC0uOTI0eiIvPjxwYXRoIGQ9Ik0zOS4yNiAyNy45ODVhMSAxIDAgMCAwLTEgMXYxMC42NmgtMjh2LTI4aDEwLjY4M2ExIDEgMCAwIDAgMC0ySDkuMjZhMSAxIDAgMCAwLTEgMXYzMGExIDEgMCAwIDAgMSAxaDMwYTEgMSAwIDAgMCAxLTF2LTExLjY2YTEgMSAwIDAgMC0xLTF6Ii8+PC9zdmc+');
+}
+
+.yii-debug-toolbar__ajax {
+    position: relative;
+}
+
+.yii-debug-toolbar__ajax:hover .yii-debug-toolbar__ajax_info,
+.yii-debug-toolbar__ajax:focus .yii-debug-toolbar__ajax_info {
+    visibility: visible;
+}
+.yii-debug-toolbar__ajax_info {
+    visibility: hidden;
+    transition: visibility .2s linear;
+    background-color: white;
+    box-shadow: inset 0 -10px 10px -10px #e1e1e1;
+    position: absolute;
+    bottom: 40px;
+    left: -1px;
+    padding: 10px;
+    max-width: 480px;
+    max-height: 480px;
+    word-wrap: break-word;
+    overflow: hidden;
+    overflow-y: auto;
+    box-sizing: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.11);
+    z-index: 1000001;
+}
+.yii-debug-toolbar__ajax a {
+    color: #337ab7;
+}
+.yii-debug-toolbar__ajax table {
+    width: 100%;
+    table-layout: auto;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+.yii-debug-toolbar__ajax table td {
+    padding: 4px;
+    font-size: 12px;
+    line-height: normal;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+}
+.yii-debug-toolbar__ajax table th {
+    padding: 4px;
+    font-size: 11px;
+    line-height: normal;
+    vertical-align: bottom;
+    border-bottom: 2px solid #ddd;
+}
+.yii-debug-toolbar__ajax_request_status {
+    color: white;
+    padding: 2px 5px;
+}
+.yii-debug-toolbar__ajax_request_url {
+    max-width: 170px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}</style><script>(function () {
+    'use strict';
+
+    var findToolbar = function () {
+            return document.querySelector('#yii-debug-toolbar');
+        },
+        ajax = function (url, settings) {
+            var xhr = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');
+            settings = settings || {};
+            xhr.open(settings.method || 'GET', url, true);
+            xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+            xhr.setRequestHeader('Accept', 'text/html');
+            xhr.onreadystatechange = function (state) {
+                if (xhr.readyState === 4) {
+                    if (xhr.status === 200 && settings.success) {
+                        settings.success(xhr);
+                    } else if (xhr.status != 200 && settings.error) {
+                        settings.error(xhr);
+                    }
+                }
+            };
+            xhr.send(settings.data || '');
+        },
+        url,
+        div,
+        toolbarEl = findToolbar(),
+        toolbarAnimatingClass = 'yii-debug-toolbar_animating',
+        barSelector = '.yii-debug-toolbar__bar',
+        viewSelector = '.yii-debug-toolbar__view',
+        blockSelector = '.yii-debug-toolbar__block',
+        toggleSelector = '.yii-debug-toolbar__toggle',
+        externalSelector = '.yii-debug-toolbar__external',
+
+        CACHE_KEY = 'yii-debug-toolbar',
+        ACTIVE_STATE = 'active',
+
+        animationTime = 300,
+
+        activeClass = 'yii-debug-toolbar_active',
+        iframeActiveClass = 'yii-debug-toolbar_iframe_active',
+        iframeAnimatingClass = 'yii-debug-toolbar_iframe_animating',
+        titleClass = 'yii-debug-toolbar__title',
+        blockClass = 'yii-debug-toolbar__block',
+        blockActiveClass = 'yii-debug-toolbar__block_active',
+        requestStack = [];
+
+    if (toolbarEl) {
+        url = toolbarEl.getAttribute('data-url');
+
+        ajax(url, {
+            success: function (xhr) {
+                div = document.createElement('div');
+                div.innerHTML = xhr.responseText;
+
+                toolbarEl.parentNode && toolbarEl.parentNode.replaceChild(div, toolbarEl);
+
+                showToolbar(findToolbar());
+            },
+            error: function (xhr) {
+                toolbarEl.innerHTML = xhr.responseText;
+            }
+        });
+    }
+
+    function showToolbar(toolbarEl) {
+        var barEl = toolbarEl.querySelector(barSelector),
+            viewEl = toolbarEl.querySelector(viewSelector),
+            toggleEl = toolbarEl.querySelector(toggleSelector),
+            externalEl = toolbarEl.querySelector(externalSelector),
+            blockEls = barEl.querySelectorAll(blockSelector),
+            iframeEl = viewEl.querySelector('iframe'),
+            iframeHeight = function () {
+                return (window.innerHeight * 0.7) + 'px';
+            },
+            isIframeActive = function () {
+                return toolbarEl.classList.contains(iframeActiveClass);
+            },
+            showIframe = function (href) {
+                toolbarEl.classList.add(iframeAnimatingClass);
+                toolbarEl.classList.add(iframeActiveClass);
+
+                iframeEl.src = externalEl.href = href;
+                viewEl.style.height = iframeHeight();
+                setTimeout(function() {
+                    toolbarEl.classList.remove(iframeAnimatingClass);
+                }, animationTime);
+            },
+            hideIframe = function () {
+                toolbarEl.classList.add(iframeAnimatingClass);
+                toolbarEl.classList.remove(iframeActiveClass);
+                removeActiveBlocksCls();
+
+                externalEl.href = '#';
+                viewEl.style.height = '';
+                setTimeout(function() {
+                    toolbarEl.classList.remove(iframeAnimatingClass);
+                }, animationTime);
+            },
+            removeActiveBlocksCls = function () {
+                [].forEach.call(blockEls, function (el) {
+                    el.classList.remove(blockActiveClass);
+                });
+            },
+            toggleToolbarClass = function (className) {
+                toolbarEl.classList.add(toolbarAnimatingClass);
+                if (toolbarEl.classList.contains(className)) {
+                    toolbarEl.classList.remove(className);
+                } else {
+                    toolbarEl.classList.add(className);
+                }
+                setTimeout(function () {
+                    toolbarEl.classList.remove(toolbarAnimatingClass);
+                }, animationTime);
+            },
+            toggleStorageState = function (key, value) {
+                if (window.localStorage) {
+                    var item = localStorage.getItem(key);
+
+                    if (item) {
+                        localStorage.removeItem(key);
+                    } else {
+                        localStorage.setItem(key, value);
+                    }
+                }
+            },
+            restoreStorageState = function (key) {
+                if (window.localStorage) {
+                    return localStorage.getItem(key);
+                }
+            },
+            togglePosition = function () {
+                if (isIframeActive()) {
+                    hideIframe();
+                } else {
+                    toggleToolbarClass(activeClass);
+                    toggleStorageState(CACHE_KEY, ACTIVE_STATE);
+                }
+            };
+
+        toolbarEl.style.display = 'block';
+
+        if (restoreStorageState(CACHE_KEY) == ACTIVE_STATE) {
+            toolbarEl.classList.add(activeClass);
+        }
+
+        window.onresize = function () {
+            if (toolbarEl.classList.contains(iframeActiveClass)) {
+                viewEl.style.height = iframeHeight();
+            }
+        };
+
+        barEl.onclick = function (e) {
+            var target = e.target,
+                block = findAncestor(target, blockClass);
+
+            if (block && !block.classList.contains(titleClass)
+                && e.which !== 2 && !e.ctrlKey // not mouse wheel and not ctrl+click
+            ) {
+                while (target !== this) {
+                    if (target.href) {
+                        removeActiveBlocksCls();
+                        block.classList.add(blockActiveClass);
+                        showIframe(target.href);
+                    }
+                    target = target.parentNode;
+                }
+
+                e.preventDefault();
+            }
+        };
+
+        toggleEl.onclick = togglePosition;
+    }
+
+    function findAncestor(el, cls) {
+        while ((el = el.parentElement) && !el.classList.contains(cls));
+        return el;
+    }
+
+    function renderAjaxRequests() {
+        var requestCounter = document.getElementsByClassName('yii-debug-toolbar__ajax_counter');
+        if (!requestCounter.length) {
+            return;
+        }
+        var ajaxToolbarPanel = document.querySelector('.yii-debug-toolbar__ajax');
+        var tbodies = document.getElementsByClassName('yii-debug-toolbar__ajax_requests');
+        var state = 'ok';
+        if (tbodies.length) {
+            var tbody = tbodies[0];
+            var rows = document.createDocumentFragment();
+            if (requestStack.length) {
+                var firstItem = requestStack.length > 20 ? requestStack.length - 20 : 0;
+                for (var i = firstItem; i < requestStack.length; i++) {
+                    var request = requestStack[i];
+                    var row = document.createElement('tr');
+                    rows.appendChild(row);
+
+                    var methodCell = document.createElement('td');
+                    methodCell.innerHTML = request.method;
+                    row.appendChild(methodCell);
+
+                    var statusCodeCell = document.createElement('td');
+                    var statusCode = document.createElement('span');
+                    if (request.statusCode < 300) {
+                        statusCode.setAttribute('class', 'yii-debug-toolbar__ajax_request_status yii-debug-toolbar__label_success');
+                    } else if (request.statusCode < 400) {
+                        statusCode.setAttribute('class', 'yii-debug-toolbar__ajax_request_status yii-debug-toolbar__label_warning');
+                    } else {
+                        statusCode.setAttribute('class', 'yii-debug-toolbar__ajax_request_status yii-debug-toolbar__label_error');
+                    }
+                    statusCode.textContent = request.statusCode || '-';
+                    statusCodeCell.appendChild(statusCode);
+                    row.appendChild(statusCodeCell);
+
+                    var pathCell = document.createElement('td');
+                    pathCell.className = 'yii-debug-toolbar__ajax_request_url';
+                    pathCell.innerHTML = request.url;
+                    pathCell.setAttribute('title', request.url);
+                    row.appendChild(pathCell);
+
+                    var durationCell = document.createElement('td');
+                    durationCell.className = 'yii-debug-toolbar__ajax_request_duration';
+                    if (request.duration) {
+                        durationCell.innerText = request.duration + " ms";
+                    } else {
+                        durationCell.innerText = '-';
+                    }
+                    row.appendChild(durationCell);
+                    row.appendChild(document.createTextNode(' '));
+
+                    var profilerCell = document.createElement('td');
+                    if (request.profilerUrl) {
+                        var profilerLink = document.createElement('a');
+                        profilerLink.setAttribute('href', request.profilerUrl);
+                        profilerLink.innerText = request.profile;
+                        profilerCell.appendChild(profilerLink);
+                    } else {
+                        profilerCell.innerText = 'n/a';
+                    }
+                    row.appendChild(profilerCell);
+
+                    if (request.error) {
+                        if (state !== "loading" && i > requestStack.length - 4) {
+                            state = 'error';
+                        }
+                    } else if (request.loading) {
+                        state = 'loading'
+                    }
+                    row.className = 'yii-debug-toolbar__ajax_request';
+                }
+                while (tbody.firstChild) {
+                    tbody.removeChild(tbody.firstChild);
+                }
+                tbody.appendChild(rows);
+            }
+            ajaxToolbarPanel.style.display = 'block';
+        }
+        requestCounter[0].innerText = requestStack.length;
+        var className = 'yii-debug-toolbar__label yii-debug-toolbar__ajax_counter';
+        if (state == 'ok') {
+            className += ' yii-debug-toolbar__label_success';
+        } else if (state == 'error') {
+            className += ' yii-debug-toolbar__label_error';
+        }
+        requestCounter[0].className = className;
+    };
+
+    var proxied = XMLHttpRequest.prototype.open;
+
+    XMLHttpRequest.prototype.open = function (method, url, async, user, pass) {
+        var self = this;
+        /* prevent logging AJAX calls to static and inline files, like templates */
+        if (url.substr(0, 1) === '/' && !url.match(new RegExp("{{ excluded_ajax_paths }}"))) {
+            var stackElement = {
+                loading: true,
+                error: false,
+                url: url,
+                method: method,
+                start: new Date()
+            };
+            requestStack.push(stackElement);
+            this.addEventListener("readystatechange", function () {
+                if (self.readyState == 4) {
+                    stackElement.duration = self.getResponseHeader("X-Debug-Duration") || new Date() - stackElement.start;
+                    stackElement.loading = false;
+                    stackElement.statusCode = self.status;
+                    stackElement.error = self.status < 200 || self.status >= 400;
+                    stackElement.profile = self.getResponseHeader("X-Debug-Tag");
+                    stackElement.profilerUrl = self.getResponseHeader("X-Debug-Link");
+                    renderAjaxRequests();
+                }
+            }, false);
+            renderAjaxRequests();
+        }
+        proxied.apply(this, Array.prototype.slice.call(arguments));
+    };
+
+})();</script><script src="/assets/643a4961/jquery.js"></script>
+<script src="/assets/66c4816e/yii.js"></script>
+<script src="/assets/164fbb69/js/bootstrap.js"></script></body>
+</html>
+";s:19:"dynamicPlaceholders";a:1:{s:25:"<![CDATA[YII-DYNAMIC-0]]>";s:55:"return Yii::$app->getModule("debug")->getToolbarHtml();";}s:6:"format";s:4:"html";s:7:"version";s:3:"1.1";s:10:"statusCode";i:200;s:10:"statusText";s:2:"OK";s:7:"headers";a:1:{s:12:"content-type";a:1:{i:0;s:24:"text/html; charset=UTF-8";}}}i:1;O:24:"yii\caching\DbDependency":5:{s:2:"db";s:2:"db";s:3:"sql";s:26:"SELECT COUNT(id) FROM post";s:6:"params";a:0:{}s:4:"data";a:1:{s:9:"COUNT(id)";s:2:"12";}s:8:"reusable";b:0;}}
